@@ -18,3 +18,9 @@ building kubernetes cluster
 - https://coffeewhale.com/kubernetes/cluster/virtualbox/2020/08/31/k8s-virtualbox/
 - https://cla9.tistory.com/90
 - https://syhwang.tistory.com/43?category=1220695
+
+---
+<br>
+
+## Reference : EKS 구축
+- https://awskocaptain.gitbook.io/aws-builders-eks/
