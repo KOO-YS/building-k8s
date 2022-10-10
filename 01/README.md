@@ -9,7 +9,7 @@
     - [x] 터미널을 이용해서 네트워크 설정 
 - [x] 기타 설정 
     - [ ] 노드 설정 복제 후 개별 설정
-    - [ ] Host명 변경
+    - [x] Host명 변경
     - [ ] 네트워크 설정
-- [ ] Docker 설치
+- [x] [Docker 설치](https://code-with-me.tistory.com/10)
 - [ ] k8s 클러스터 설치
